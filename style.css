@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+}
+body {
+  background: #f1f5f5;
+  line-height: 1.5;
+  font-style: oblique;
+}
+.section {
+  padding: 5rem 0;
+  background-color: white;
+}
+.section-title {
+  text-align: center;
+  text-transform: capitalize;
+}
+.title-underline {
+  background-color: aqua;
+  width: 5rem;
+  height: 0.25rem;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.section-center {
+  margin: 0 auto;
+  width: 90vw;
+}
